@@ -1,3 +1,7 @@
+#Time Complexity(Worst Case) = O(n^2)
+#Time Complexity(Best Case) = O(n)
+#Space Complexity = O(1)
+
 lst = [9,8,7,6,5,4,3,2,1]
 
 def bubble_sort(arr):
